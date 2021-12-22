@@ -1,5 +1,6 @@
 # Azureauth
-Kelompok 3 Aplikasi Komputer <br/>
+# PHP Authentication with Microsoft Azure Directory
+## Kelompok 3 Aplikasi Komputer <br/>
 Mengimplementasikan Microsoft Azure Authentication dengan Program Aplikasi Berbasis PHP<br/>
 i.2111719 Rafael Nuansa Ramadhon<br/>
 i.2111727 Ari Permana Agung<br/>
